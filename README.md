@@ -29,39 +29,65 @@ sin(1)
 ## 内置函数列表
 
 abs：绝对值
+
 acos：反余弦
+
 asin：反正弦
+
 atan：反正切
+
 cbrt：立方根
+
 ceil：向上取整
+
 cos：余弦
+
 cosh：双曲余弦
+
 exp：欧拉数的 (e^x) 次方
+
 floor：向下取整
+
 log：自然对数（底为 e）
+
 log10：对数（底为 10）
+
 log2：对数（底为 2）
+
 sin：正弦
+
 sinh：双曲正弦
+
 sqrt：平方根
+
 tan：正切
+
 tanh：双曲正切
+
 signum：正负号函数
 
 ## 内置常数列表
 
 pi, π：圆周率
+
 e：自然常数
+
 φ：黄金分割比（1.61803398874）
 
 ## 内置格式化方法列表
 
 default：不进行格式化
+
 toIEEE754 / IEEE754：将浮点数转化为 IEEE 754 格式的 0-1 串
+
 fromIEEE754 / IEEE754解析：将 IEEE 754 格式的 0-1 串转化回浮点数
+
 toTwosComplement / 补码：将整数转化为补码形式的 0-1 串
+
 toOnesComplement / 反码：将整数转化为反码形式的 0-1 串
+
 toSignMagnitude / 原码：将整数转化为原码形式的 0-1 串
+
 fromTwosComplement / 补码解析：将补码形式的 0-1 串转化回整数
 
 
